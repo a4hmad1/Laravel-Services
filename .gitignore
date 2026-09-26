@@ -1,0 +1,9 @@
+# Ignore all source code and development folders
+backend/
+frontend/
+docs/
+artifacts/
+node_modules/
+.vscode/
+.idea/
+*.log
