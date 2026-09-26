@@ -21,6 +21,13 @@
 
 ---
 
+> [!NOTE]
+> **Independent Community Package & Trademark Notice**:  
+> **Laravel Services Hub** is an independent, third-party open-source package created, designed, and maintained by **Ahmad** ([@a4hmad1](https://github.com/a4hmad1)).  
+> This is **not an official package released by Laravel LLC or Taylor Otwell**. It is built specifically for applications powered by the Laravel framework. The Laravel name and logo are registered trademarks of **Taylor Otwell** and are used here under fair use to signify ecosystem integration and compatibility.
+
+---
+
 ## ⚡ Executive Overview
 
 **Laravel Services Hub** bridges the gap between your Laravel codebase and the modern cloud ecosystem. Rather than juggling dozens of disparate cloud consoles, scattered API keys, divergent `.env` configurations, and detached webhook listeners, **Services Hub** delivers a unified, zero-configuration in-app control plane.
@@ -228,9 +235,10 @@ We extend our deep gratitude to the creators and visionaries who made PHP and La
 
 ## 📄 License & Trademarks
 
-- **License:** Open-source software licensed under the [MIT License](LICENSE).
-- **Trademark Notice:** *Laravel* is a registered trademark of Taylor Otwell. *Laravel Services Hub* is an independent open-source contribution designed for the Laravel developer community.
+- **Package Ownership:** Created, architected, and maintained by **Ahmad** ([@a4hmad1](https://github.com/a4hmad1)).
+- **License:** Open-source software distributed under the [MIT License](LICENSE).
+- **Trademark Notice & Disclaimer:** *Laravel* is a registered trademark of Taylor Otwell. This package is an independent third-party community tool and is **not affiliated with, endorsed by, or an official product of Laravel LLC or Taylor Otwell**. The official Laravel logo and branding assets are used solely to indicate that this package is engineered for and compatible with the Laravel framework.
 
 <p align="center">
-  <sub>Engineered with precision by <strong>Ahmad</strong> (<a href="https://github.com/a4hmad1">@a4hmad1</a>) • Built for Web Artisans Worldwide</sub>
+  <sub>Engineered by <strong>Ahmad</strong> (<a href="https://github.com/a4hmad1">@a4hmad1</a>) • An Independent Contribution to the Laravel Artisan Community</sub>
 </p>
